@@ -5,12 +5,12 @@
 	 ♦ Temel Konu Başlıkları >
 
 		•	Diller
-      • Pascal  (yapılacaklar listesinde)
-      • Basic   (yapılacaklar listesinde)
-      • C       (yapılacaklar listesinde)
-      • C++     (yapılacaklar listesinde)
-      • C#      (yapılacaklar listesinde)
-      • Java    (yapılıyor)
+      			• Pascal  (yapılacaklar listesinde)
+      			• Basic   (yapılacaklar listesinde)
+      			• C       (yapılacaklar listesinde)
+      			• C++     (yapılacaklar listesinde)
+      			• C#      (yapılacaklar listesinde)
+      			• Java    (yapılıyor)
 		•	Değişkenler
 		•	Diziler
 		•	Donguler
