@@ -4,17 +4,16 @@
 
 	 ♦ Temel Konu Başlıkları >
 
-		• Giriş	(yapılıyor)
+		• Giriş				(yapılıyor)
 		• Diller
-      			• Pascal  (yapılacaklar listesinde)
-      			• Basic   (yapılacaklar listesinde)
-      			• C       (yapılacaklar listesinde)
-      			• C++     (yapılacaklar listesinde)
-      			• C#      (yapılacaklar listesinde)
-      			• Java    (yapılıyor)
-		• Değişkenler
-		• Diziler
-		• Donguler
-		• Koşullar
-		• Fonksiyon & Metotlar
-		• Dosya & API
+      			• Pascal  		(yapılacaklar listesinde)
+      			• Basic   		(yapılacaklar listesinde)
+      			• C       		(yapılacaklar listesinde)
+      			• C++     		(yapılacaklar listesinde)
+      			• C#      		(yapılacaklar listesinde)
+      			• Java    		(yapılıyor)
+				• Kotlin	(yapılacaklar listesinde)
+		• İşlemler
+			• Matematiksel		(yapılacaklar listesinde)
+			• Karşılatrıma		(yapılacaklar listesinde)
+			• Mantıksal		(yapılacaklar listesinde)
