@@ -14,8 +14,8 @@
 		• Java (yapılıyor)
 			• Kotlin (yapılacaklar listesinde)
 		• Veri
-			• XML veri saklama, transfer
-			• HTML veri sunum
+			• XML veri saklama, transfer (yapılacaklar listesinde)
+			• HTML veri sunum (yapılacaklar listesinde)
 				
 	• İşlemler
 		• Matematiksel (yapılacaklar listesinde)
